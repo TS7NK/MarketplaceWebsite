@@ -16,6 +16,23 @@ Welcome to Parazon, the marketplace for buying and selling GPT prompts! This pla
 
 ![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOSqhWZYXpdXT06vbLN6uc4_121S9KYjRnJazr0pKn6hTFj2nEBYARTufTk-rKTesIhTiHMSj5Gn38jfDlhYK6o3n9P6B4ArFlxh2u-qBwFCk4XvkFKI8AEQsvlZNhQq-UIlYz6g-ozfYXTZ4QmuYWSHMo4yPJ4aukcWns-jXxQJPXiYGw0m6mNr2MbLM/w640-h506/Screenshot%202023-07-12%20at%204.32.08%20PM.png)
 
+# Features
+#### Buy and Sell GPT Prompts: 
+<p> Parazon provides a user-friendly interface for users to browse, buy, and sell GPT prompts. Whether you're looking for inspiration or have unique prompts to offer, Parazon is the place to be. </p>
+
+<h4> Secure Transactions: </h4><p> We prioritize the safety and security of our users. Parazon ensures secure transactions between buyers and sellers, protecting your sensitive information and providing a trustworthy environment.
+
+#### Search and Filter: 
+<p> Our powerful search and filtering options make it easy to find the prompts that match your interests. Narrow down your search by category, topic, or specific keywords to discover the perfect prompt for your needs.</p>
+
+#### Seller Profiles: 
+<p> Get to know the sellers behind the prompts. Each seller has a profile that showcases their expertise, ratings, and reviews from previous buyers. This helps you make informed decisions and choose prompts from trusted sellers.</p>
+
+#### Rating and Review System: 
+<p>Parazon encourages transparency and accountability. Buyers can leave ratings and reviews for the prompts they purchase, helping other users make informed choices and ensuring a high-quality marketplace.</p>
+
+#### Messaging System: 
+<p> Communication is key, and Parazon provides an integrated messaging system for seamless interactions between buyers and sellers. Easily discuss prompt details, negotiate prices, or ask questions directly within the platform.</p>
 
 ## 🔗 Links
 [![Figma](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnaOuADmLQ8zodfJYrsK3iVH6MCcDfR1f2thqofIlV4OVI7877Gc0_8fN_qBMqupYiOc2SoL09RkVCqY-fPub0BZpIsM6k3xydFTiEXjmHN7Yh_suychLGsRpLAzaLaXkbwlPWj5rwKWMQRqhIM4SX2rMbrjIHGtb9u3V0nA52J45S-A09Pf1Pt-nDbZM/s1600/Screenshot%202023-07-12%20at%205.04.39%20PM.png)](https://www.figma.com/file/cQioo4pUpJ2xPTcOHZRuU2/Prompt-Marketplace_Simplified?type=design&node-id=0%3A1&mode=dev)
