@@ -18,7 +18,7 @@ Welcome to Parazon, the marketplace for buying and selling GPT prompts! This pla
 
 
 ## 🔗 Links
-[![Figma](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnaOuADmLQ8zodfJYrsK3iVH6MCcDfR1f2thqofIlV4OVI7877Gc0_8fN_qBMqupYiOc2SoL09RkVCqY-fPub0BZpIsM6k3xydFTiEXjmHN7Yh_suychLGsRpLAzaLaXkbwlPWj5rwKWMQRqhIM4SX2rMbrjIHGtb9u3V0nA52J45S-A09Pf1Pt-nDbZM/s1600/Screenshot%202023-07-12%20at%205.04.39%20PM.png)](https://www.figma.com/file/cQioo4pUpJ2xPTcOHZRuU2/Prompt-Marketplace_Simplified?type=design&node-id=0%3A1&mode=dev)
+[![Figma](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnaOuADmLQ8zodfJYrsK3iVH6MCcDfR1f2thqofIlV4OVI7877Gc0_8fN_qBMqupYiOc2SoL09RkVCqY-fPub0BZpIsM6k3xydFTiEXjmHN7Yh_suychLGsRpLAzaLaXkbwlPWj5rwKWMQRqhIM4SX2rMbrjIHGtb9u3V0nA52J45S-A09Pf1Pt-nDbZM/s1600/Screenshot%202023-07-12%20at%205.04.39%20PM.png)]([https://www.figma.com/file/cQioo4pUpJ2xPTcOHZRuU2/Prompt-Marketplace_Simplified?type=design&node-id=0%3A1&mode=dev](https://www.figma.com/file/cQioo4pUpJ2xPTcOHZRuU2/Prompt-Marketplace_Simplified?type=design&node-id=0%3A1&mode=design&t=iWQm99XGXNJdl1x7-1))
 
 
 ## Authors
