@@ -1,0 +1,13 @@
+{
+    "AppSyncApiName": "PromptMarket",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "S3DeploymentBucket": "amplify-promptmarket-staging-141230-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/17c9d5ed29a92c9d6943c35754c50c7ba24cba33"
+}

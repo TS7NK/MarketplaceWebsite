@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-promptmarket-staging-141230-authRole",
+      "UnauthRoleArn": "arn:aws:iam::542437099615:role/amplify-promptmarket-staging-141230-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::542437099615:role/amplify-promptmarket-staging-141230-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-promptmarket-staging-141230-deployment",
+      "UnauthRoleName": "amplify-promptmarket-staging-141230-unauthRole",
+      "StackName": "amplify-promptmarket-staging-141230",
+      "StackId": "arn:aws:cloudformation:us-east-2:542437099615:stack/amplify-promptmarket-staging-141230/d1fc9e20-15bd-11ee-b1f3-0a8c07aac517",
+      "AmplifyAppId": "d1bhpjfjmggnwo"
+    },
+    "categories": {
+      "auth": {
+        "PromptMarket": {}
+      }
+    }
+  }
+}

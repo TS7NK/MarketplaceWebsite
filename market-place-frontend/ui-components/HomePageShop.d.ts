@@ -1,0 +1,94 @@
+/***************************************************************************
+ * The contents of this file were generated with Amplify Studio.           *
+ * Please refrain from making any modifications to this file.              *
+ * Any changes to this file will be overwritten when running amplify pull. *
+ **************************************************************************/
+
+import * as React from "react";
+import { EscapeHatchProps } from "@aws-amplify/ui-react/internal";
+import { FlexProps, IconProps, TextProps, ViewProps } from "@aws-amplify/ui-react";
+import { LogoyellowProps } from "./Logoyellow";
+import { SearchbarmainProps } from "./Searchbarmain";
+import { TagsbuttonProps } from "./Tagsbutton";
+import { AddButtonProps } from "./AddButton";
+export declare type PrimitiveOverrideProps<T> = Partial<T> & React.DOMAttributes<HTMLDivElement>;
+export declare type HomePageShopOverridesProps = {
+    HomePageShop?: PrimitiveOverrideProps<ViewProps>;
+    "Frame 23"?: PrimitiveOverrideProps<FlexProps>;
+    "Frame 22"?: PrimitiveOverrideProps<FlexProps>;
+    "Frame 20"?: PrimitiveOverrideProps<FlexProps>;
+    "Frame 19"?: PrimitiveOverrideProps<FlexProps>;
+    "Frame 18"?: PrimitiveOverrideProps<FlexProps>;
+    "Get Best Prompts with"?: PrimitiveOverrideProps<TextProps>;
+    "logo-yellow"?: LogoyellowProps;
+    "Online marketplace for AI prompts, produce better results, save time and cost."?: PrimitiveOverrideProps<TextProps>;
+    "search bar (main)"?: SearchbarmainProps;
+    "Frame 21"?: PrimitiveOverrideProps<FlexProps>;
+    "tags button43121048"?: TagsbuttonProps;
+    "tags button43121049"?: TagsbuttonProps;
+    "tags button43121050"?: TagsbuttonProps;
+    "tags button43121051"?: TagsbuttonProps;
+    "Add Button"?: AddButtonProps;
+    Group43121053?: PrimitiveOverrideProps<FlexProps>;
+    Vector43121054?: PrimitiveOverrideProps<IconProps>;
+    Group43121055?: PrimitiveOverrideProps<ViewProps>;
+    Vector43121056?: PrimitiveOverrideProps<IconProps>;
+    Vector43121057?: PrimitiveOverrideProps<IconProps>;
+    Vector43121058?: PrimitiveOverrideProps<IconProps>;
+    Vector43121059?: PrimitiveOverrideProps<IconProps>;
+    Vector43121060?: PrimitiveOverrideProps<IconProps>;
+    Vector43121061?: PrimitiveOverrideProps<IconProps>;
+    Group43121062?: PrimitiveOverrideProps<ViewProps>;
+    Vector43121063?: PrimitiveOverrideProps<IconProps>;
+    Vector43121064?: PrimitiveOverrideProps<IconProps>;
+    Vector43121065?: PrimitiveOverrideProps<IconProps>;
+    Vector43121066?: PrimitiveOverrideProps<IconProps>;
+    Vector43121067?: PrimitiveOverrideProps<IconProps>;
+    Group43121068?: PrimitiveOverrideProps<ViewProps>;
+    Group43121069?: PrimitiveOverrideProps<ViewProps>;
+    Vector43121070?: PrimitiveOverrideProps<IconProps>;
+    Vector43121071?: PrimitiveOverrideProps<IconProps>;
+    Vector43121072?: PrimitiveOverrideProps<IconProps>;
+    Vector43121073?: PrimitiveOverrideProps<IconProps>;
+    Vector43121074?: PrimitiveOverrideProps<IconProps>;
+    Vector43121075?: PrimitiveOverrideProps<IconProps>;
+    Vector43121076?: PrimitiveOverrideProps<IconProps>;
+    Vector43121077?: PrimitiveOverrideProps<IconProps>;
+    Vector43121078?: PrimitiveOverrideProps<IconProps>;
+    Group43121079?: PrimitiveOverrideProps<ViewProps>;
+    Group43121080?: PrimitiveOverrideProps<ViewProps>;
+    Vector43121081?: PrimitiveOverrideProps<IconProps>;
+    Vector43121082?: PrimitiveOverrideProps<IconProps>;
+    sk?: PrimitiveOverrideProps<IconProps>;
+    sh?: PrimitiveOverrideProps<IconProps>;
+    Vector43121085?: PrimitiveOverrideProps<IconProps>;
+    Vector43121086?: PrimitiveOverrideProps<IconProps>;
+    Vector43121087?: PrimitiveOverrideProps<IconProps>;
+    Vector43121088?: PrimitiveOverrideProps<IconProps>;
+    Vector43121089?: PrimitiveOverrideProps<IconProps>;
+    Vector43121090?: PrimitiveOverrideProps<IconProps>;
+    Group43121091?: PrimitiveOverrideProps<ViewProps>;
+    Vector43121092?: PrimitiveOverrideProps<IconProps>;
+    Group43121093?: PrimitiveOverrideProps<ViewProps>;
+    Vector43121094?: PrimitiveOverrideProps<IconProps>;
+    Vector43121095?: PrimitiveOverrideProps<IconProps>;
+    Vector43121096?: PrimitiveOverrideProps<IconProps>;
+    Vector43121097?: PrimitiveOverrideProps<IconProps>;
+    Vector43121098?: PrimitiveOverrideProps<IconProps>;
+    Vector43121099?: PrimitiveOverrideProps<IconProps>;
+    b_4_ha?: PrimitiveOverrideProps<ViewProps>;
+    Vector43121101?: PrimitiveOverrideProps<IconProps>;
+    b_4_ha_sh43121102?: PrimitiveOverrideProps<IconProps>;
+    b_4_ha_sh43121103?: PrimitiveOverrideProps<IconProps>;
+    b_4_ha_sh43121104?: PrimitiveOverrideProps<IconProps>;
+    Vector43121105?: PrimitiveOverrideProps<IconProps>;
+    Vector43121106?: PrimitiveOverrideProps<IconProps>;
+    Group43121107?: PrimitiveOverrideProps<ViewProps>;
+    Vector43121108?: PrimitiveOverrideProps<IconProps>;
+    Vector43121109?: PrimitiveOverrideProps<IconProps>;
+    Vector43121110?: PrimitiveOverrideProps<IconProps>;
+} & EscapeHatchProps;
+export declare type HomePageShopProps = React.PropsWithChildren<Partial<ViewProps> & {
+    overrides?: HomePageShopOverridesProps | undefined | null;
+}>;
+export default function HomePageShop(props: HomePageShopProps): React.ReactElement;

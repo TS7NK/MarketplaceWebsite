@@ -1,0 +1,91 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-promptmarket-staging-141230-authRole",
+      "UnauthRoleArn": "arn:aws:iam::542437099615:role/amplify-promptmarket-staging-141230-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::542437099615:role/amplify-promptmarket-staging-141230-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-promptmarket-staging-141230-deployment",
+      "UnauthRoleName": "amplify-promptmarket-staging-141230-unauthRole",
+      "StackName": "amplify-promptmarket-staging-141230",
+      "StackId": "arn:aws:cloudformation:us-east-2:542437099615:stack/amplify-promptmarket-staging-141230/d1fc9e20-15bd-11ee-b1f3-0a8c07aac517",
+      "AmplifyAppId": "d1bhpjfjmggnwo"
+    }
+  },
+  "auth": {
+    "PromptMarket": {
+      "customAuth": false,
+      "dependsOn": [],
+      "frontendAuthConfig": {
+        "mfaConfiguration": "OFF",
+        "mfaTypes": [
+          "SMS"
+        ],
+        "passwordProtectionSettings": {
+          "passwordPolicyMinLength": 8,
+          "passwordPolicyCharacters": [
+            "REQUIRES_LOWERCASE",
+            "REQUIRES_NUMBERS",
+            "REQUIRES_UPPERCASE"
+          ]
+        },
+        "signupAttributes": [],
+        "socialProviders": [],
+        "usernameAttributes": [
+          "EMAIL"
+        ],
+        "verificationMechanisms": [
+          "EMAIL"
+        ]
+      },
+      "providerPlugin": "awscloudformation",
+      "service": "Cognito",
+      "output": {
+        "UserPoolId": "us-east-2_EPeLoO5Is",
+        "AppClientIDWeb": "5jf9u6sqi1bie5aktfug35rnh3",
+        "AppClientID": "18gipm51urh561ja1h0ia83j3a",
+        "IdentityPoolId": "us-east-2:e633d666-c4be-4d85-aa3e-50c595ab5362",
+        "UserPoolArn": "arn:aws:cognito-idp:us-east-2:542437099615:userpool/us-east-2_EPeLoO5Is",
+        "IdentityPoolName": "testAuthIdentityPool__staging",
+        "UserPoolName": "PromptMarket"
+      },
+      "lastPushTimeStamp": "2023-07-21T21:35:14.404Z",
+      "providerMetadata": {
+        "s3TemplateURL": "https://s3.amazonaws.com/amplify-promptmarket-staging-141230-deployment/amplify-cfn-templates/auth/PromptMarket-cloudformation-template.json",
+        "logicalId": "authPromptMarket"
+      }
+    }
+  },
+  "api": {
+    "PromptMarket": {
+      "service": "AppSync",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "output": {
+        "authConfig": {
+          "defaultAuthentication": {
+            "authenticationType": "API_KEY",
+            "apiKeyConfig": {
+              "apiKeyExpirationDays": 30,
+              "description": "api key description"
+            }
+          },
+          "additionalAuthenticationProviders": [
+            {
+              "authenticationType": "AWS_IAM"
+            }
+          ]
+        },
+        "GraphQLAPIIdOutput": "fsyc4q4ctng47mmyshnbomwhqi",
+        "GraphQLAPIEndpointOutput": "https://eaklltdd6vgrjcmkd7qpz7v6ii.appsync-api.us-east-2.amazonaws.com/graphql",
+        "GraphQLAPIKeyOutput": "da2-aukiiim7jvcnvnmkdh4oygk3ta"
+      },
+      "providerMetadata": {
+        "s3TemplateURL": "https://s3.amazonaws.com/amplify-promptmarket-staging-141230-deployment/amplify-cfn-templates/api/cloudformation-template.json",
+        "logicalId": "apiPromptMarket"
+      },
+      "lastPushTimeStamp": "2023-07-21T21:35:14.405Z",
+      "lastPushDirHash": "2eOPsK8CTDYCSsBbI7gK3dIu2B0="
+    }
+  }
+}

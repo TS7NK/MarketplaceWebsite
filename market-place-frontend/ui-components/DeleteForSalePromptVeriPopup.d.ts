@@ -1,0 +1,94 @@
+/***************************************************************************
+ * The contents of this file were generated with Amplify Studio.           *
+ * Please refrain from making any modifications to this file.              *
+ * Any changes to this file will be overwritten when running amplify pull. *
+ **************************************************************************/
+
+import * as React from "react";
+import { EscapeHatchProps } from "@aws-amplify/ui-react/internal";
+import { FlexProps, IconProps, TextProps, ViewProps } from "@aws-amplify/ui-react";
+import { CancelButtonProps } from "./CancelButton";
+import { DeleteWhiteButtonProps } from "./DeleteWhiteButton";
+export declare type PrimitiveOverrideProps<T> = Partial<T> & React.DOMAttributes<HTMLDivElement>;
+export declare type DeleteForSalePromptVeriPopupOverridesProps = {
+    DeleteForSalePromptVeriPopup?: PrimitiveOverrideProps<ViewProps>;
+    "Frame 201"?: PrimitiveOverrideProps<FlexProps>;
+    "Frame 183"?: PrimitiveOverrideProps<FlexProps>;
+    "Stop selling and delete this prompt forever?"?: PrimitiveOverrideProps<TextProps>;
+    "You will lose this prompt and corresponding prompt file. Anyone will not be able to find or open this prompt in Parazon. This action cannot be undone."?: PrimitiveOverrideProps<TextProps>;
+    "Bad gateway"?: PrimitiveOverrideProps<ViewProps>;
+    Group50629629?: PrimitiveOverrideProps<ViewProps>;
+    Group50629630?: PrimitiveOverrideProps<ViewProps>;
+    Vector50629631?: PrimitiveOverrideProps<IconProps>;
+    Vector50629632?: PrimitiveOverrideProps<IconProps>;
+    Group50629633?: PrimitiveOverrideProps<ViewProps>;
+    Vector50629634?: PrimitiveOverrideProps<IconProps>;
+    Vector50629635?: PrimitiveOverrideProps<IconProps>;
+    Group50629636?: PrimitiveOverrideProps<ViewProps>;
+    Vector50629637?: PrimitiveOverrideProps<IconProps>;
+    Vector50629638?: PrimitiveOverrideProps<IconProps>;
+    Group50629639?: PrimitiveOverrideProps<ViewProps>;
+    Vector50629640?: PrimitiveOverrideProps<IconProps>;
+    Vector50629641?: PrimitiveOverrideProps<IconProps>;
+    Group50629642?: PrimitiveOverrideProps<ViewProps>;
+    Group50629643?: PrimitiveOverrideProps<ViewProps>;
+    Group50629644?: PrimitiveOverrideProps<ViewProps>;
+    Vector50629645?: PrimitiveOverrideProps<IconProps>;
+    Group50629646?: PrimitiveOverrideProps<ViewProps>;
+    Vector50629647?: PrimitiveOverrideProps<IconProps>;
+    Group50629648?: PrimitiveOverrideProps<ViewProps>;
+    Vector50629649?: PrimitiveOverrideProps<IconProps>;
+    Group50629650?: PrimitiveOverrideProps<ViewProps>;
+    Vector50629651?: PrimitiveOverrideProps<IconProps>;
+    Vector50629652?: PrimitiveOverrideProps<IconProps>;
+    Vector50629653?: PrimitiveOverrideProps<IconProps>;
+    Group50629654?: PrimitiveOverrideProps<ViewProps>;
+    Group50629655?: PrimitiveOverrideProps<ViewProps>;
+    Vector50629656?: PrimitiveOverrideProps<IconProps>;
+    sk?: PrimitiveOverrideProps<IconProps>;
+    sh?: PrimitiveOverrideProps<IconProps>;
+    Vector50629659?: PrimitiveOverrideProps<IconProps>;
+    Vector50629660?: PrimitiveOverrideProps<IconProps>;
+    Vector50629661?: PrimitiveOverrideProps<IconProps>;
+    Vector50629662?: PrimitiveOverrideProps<IconProps>;
+    Vector50629663?: PrimitiveOverrideProps<IconProps>;
+    Vector50629664?: PrimitiveOverrideProps<IconProps>;
+    Vector50629665?: PrimitiveOverrideProps<IconProps>;
+    Vector50629666?: PrimitiveOverrideProps<IconProps>;
+    Vector50629667?: PrimitiveOverrideProps<IconProps>;
+    Vector50629668?: PrimitiveOverrideProps<IconProps>;
+    Vector50629669?: PrimitiveOverrideProps<IconProps>;
+    Vector50629670?: PrimitiveOverrideProps<IconProps>;
+    Vector50629671?: PrimitiveOverrideProps<IconProps>;
+    Vector50629672?: PrimitiveOverrideProps<IconProps>;
+    Group50629673?: PrimitiveOverrideProps<ViewProps>;
+    Vector50629674?: PrimitiveOverrideProps<IconProps>;
+    Group50629675?: PrimitiveOverrideProps<ViewProps>;
+    Vector50629676?: PrimitiveOverrideProps<IconProps>;
+    Group50629677?: PrimitiveOverrideProps<ViewProps>;
+    Vector50629678?: PrimitiveOverrideProps<IconProps>;
+    Group50629679?: PrimitiveOverrideProps<ViewProps>;
+    Vector50629680?: PrimitiveOverrideProps<IconProps>;
+    Vector50629681?: PrimitiveOverrideProps<IconProps>;
+    Vector50629682?: PrimitiveOverrideProps<IconProps>;
+    Vector50629683?: PrimitiveOverrideProps<IconProps>;
+    Group50629684?: PrimitiveOverrideProps<ViewProps>;
+    Group50629685?: PrimitiveOverrideProps<ViewProps>;
+    Group50629686?: PrimitiveOverrideProps<ViewProps>;
+    Vector50629687?: PrimitiveOverrideProps<IconProps>;
+    Vector50629688?: PrimitiveOverrideProps<IconProps>;
+    Vector50629689?: PrimitiveOverrideProps<IconProps>;
+    Group50629690?: PrimitiveOverrideProps<ViewProps>;
+    Vector50629691?: PrimitiveOverrideProps<IconProps>;
+    Group50629692?: PrimitiveOverrideProps<ViewProps>;
+    Vector50629693?: PrimitiveOverrideProps<IconProps>;
+    Vector50629694?: PrimitiveOverrideProps<IconProps>;
+    "Frame 184"?: PrimitiveOverrideProps<FlexProps>;
+    "Cancel Button"?: CancelButtonProps;
+    "Line 75"?: PrimitiveOverrideProps<IconProps>;
+    "Delete White Button"?: DeleteWhiteButtonProps;
+} & EscapeHatchProps;
+export declare type DeleteForSalePromptVeriPopupProps = React.PropsWithChildren<Partial<ViewProps> & {
+    overrides?: DeleteForSalePromptVeriPopupOverridesProps | undefined | null;
+}>;
+export default function DeleteForSalePromptVeriPopup(props: DeleteForSalePromptVeriPopupProps): React.ReactElement;

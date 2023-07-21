@@ -1,0 +1,91 @@
+/***************************************************************************
+ * The contents of this file were generated with Amplify Studio.           *
+ * Please refrain from making any modifications to this file.              *
+ * Any changes to this file will be overwritten when running amplify pull. *
+ **************************************************************************/
+
+import * as React from "react";
+import { EscapeHatchProps } from "@aws-amplify/ui-react/internal";
+import { FlexProps, IconProps, TextProps, ViewProps } from "@aws-amplify/ui-react";
+import { DeletebuttonProps } from "./Deletebutton";
+import { AcademicDropdownProps } from "./AcademicDropdown";
+import { TagsbuttonProps } from "./Tagsbutton";
+import { AddButtonProps } from "./AddButton";
+import { BackButtonProps } from "./BackButton";
+import { NextButtonProps } from "./NextButton";
+export declare type PrimitiveOverrideProps<T> = Partial<T> & React.DOMAttributes<HTMLDivElement>;
+export declare type SellStep2OverridesProps = {
+    SellStep2?: PrimitiveOverrideProps<ViewProps>;
+    "Frame 194"?: PrimitiveOverrideProps<FlexProps>;
+    "Frame 190"?: PrimitiveOverrideProps<FlexProps>;
+    "Progress Line"?: PrimitiveOverrideProps<FlexProps>;
+    "Line 76"?: PrimitiveOverrideProps<IconProps>;
+    "Step 2/5"?: PrimitiveOverrideProps<TextProps>;
+    "delete button"?: DeletebuttonProps;
+    "Frame 193"?: PrimitiveOverrideProps<FlexProps>;
+    "Frame 192"?: PrimitiveOverrideProps<FlexProps>;
+    "Choose a Category"?: PrimitiveOverrideProps<TextProps>;
+    "Choose the most relevant category for your prompt. Add tags to help customers better understand your prompt."?: PrimitiveOverrideProps<TextProps>;
+    "Choose Illustration"?: PrimitiveOverrideProps<FlexProps>;
+    Vector44414440?: PrimitiveOverrideProps<IconProps>;
+    Vector44414441?: PrimitiveOverrideProps<IconProps>;
+    Vector44414442?: PrimitiveOverrideProps<IconProps>;
+    Vector44414443?: PrimitiveOverrideProps<IconProps>;
+    Vector44414444?: PrimitiveOverrideProps<IconProps>;
+    Vector44414445?: PrimitiveOverrideProps<IconProps>;
+    Vector44414446?: PrimitiveOverrideProps<IconProps>;
+    Vector44414447?: PrimitiveOverrideProps<IconProps>;
+    Vector44414448?: PrimitiveOverrideProps<IconProps>;
+    Vector44414449?: PrimitiveOverrideProps<IconProps>;
+    Group44414450?: PrimitiveOverrideProps<ViewProps>;
+    Vector44414451?: PrimitiveOverrideProps<IconProps>;
+    Vector44414452?: PrimitiveOverrideProps<IconProps>;
+    Vector44414453?: PrimitiveOverrideProps<IconProps>;
+    Vector44414454?: PrimitiveOverrideProps<IconProps>;
+    Vector44414455?: PrimitiveOverrideProps<IconProps>;
+    Vector44414456?: PrimitiveOverrideProps<IconProps>;
+    Vector44414457?: PrimitiveOverrideProps<IconProps>;
+    Group44414458?: PrimitiveOverrideProps<ViewProps>;
+    Vector44414459?: PrimitiveOverrideProps<IconProps>;
+    Vector44414460?: PrimitiveOverrideProps<IconProps>;
+    Vector44414461?: PrimitiveOverrideProps<IconProps>;
+    Vector44414462?: PrimitiveOverrideProps<IconProps>;
+    Group44414463?: PrimitiveOverrideProps<ViewProps>;
+    Vector44414464?: PrimitiveOverrideProps<IconProps>;
+    Vector44414465?: PrimitiveOverrideProps<IconProps>;
+    Vector44414466?: PrimitiveOverrideProps<IconProps>;
+    Vector44414467?: PrimitiveOverrideProps<IconProps>;
+    Vector44414468?: PrimitiveOverrideProps<IconProps>;
+    Group44414469?: PrimitiveOverrideProps<ViewProps>;
+    Group44414470?: PrimitiveOverrideProps<ViewProps>;
+    Vector44414471?: PrimitiveOverrideProps<IconProps>;
+    Vector44414472?: PrimitiveOverrideProps<IconProps>;
+    Vector44414473?: PrimitiveOverrideProps<IconProps>;
+    Vector44414474?: PrimitiveOverrideProps<IconProps>;
+    Group44414475?: PrimitiveOverrideProps<ViewProps>;
+    Vector44414476?: PrimitiveOverrideProps<IconProps>;
+    "Frame 214"?: PrimitiveOverrideProps<FlexProps>;
+    "Frame 197"?: PrimitiveOverrideProps<FlexProps>;
+    "Frame 195"?: PrimitiveOverrideProps<FlexProps>;
+    Category?: PrimitiveOverrideProps<TextProps>;
+    "Choose the most relevant category"?: PrimitiveOverrideProps<TextProps>;
+    "Academic Dropdown"?: AcademicDropdownProps;
+    "Frame 196"?: PrimitiveOverrideProps<FlexProps>;
+    Tags?: PrimitiveOverrideProps<TextProps>;
+    "Add at most 3 tags for your prompt"?: PrimitiveOverrideProps<TextProps>;
+    "Frame 21"?: PrimitiveOverrideProps<FlexProps>;
+    "tags button44414487"?: TagsbuttonProps;
+    "tags button44414488"?: TagsbuttonProps;
+    "tags button44414489"?: TagsbuttonProps;
+    "Frame 199"?: PrimitiveOverrideProps<FlexProps>;
+    "Add Button"?: AddButtonProps;
+    "3/3"?: PrimitiveOverrideProps<TextProps>;
+    "Frame 198"?: PrimitiveOverrideProps<FlexProps>;
+    "Back Button"?: BackButtonProps;
+    "Line 77"?: PrimitiveOverrideProps<IconProps>;
+    "Next Button"?: NextButtonProps;
+} & EscapeHatchProps;
+export declare type SellStep2Props = React.PropsWithChildren<Partial<ViewProps> & {
+    overrides?: SellStep2OverridesProps | undefined | null;
+}>;
+export default function SellStep2(props: SellStep2Props): React.ReactElement;

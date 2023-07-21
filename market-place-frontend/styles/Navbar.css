@@ -1,0 +1,60 @@
+/* components/Navbar.css */
+/* Basic styles for the Navbar */
+
+.navbar {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* First line styles */
+  .navbar__first-line {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+  }
+  
+  .navbar__logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-right: auto;
+  }
+  
+  .navbar__menu {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .navbar__menu li {
+    cursor: pointer;
+  }
+  
+  .navbar__login-btn {
+    background-color: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  
+  /* Second line styles */
+  .navbar__second-line {
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+  }
+  
+  .navbar__submenu {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .navbar__submenu li {
+    cursor: pointer;
+  }
+  
+  /* Additional styles as per your design */
+  
